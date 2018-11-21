@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--标签云的文本的字体的颜色选择器-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="#f0f" android:state_selected="true" />
+    <item android:color="#000" android:state_selected="false" />
+</selector>
